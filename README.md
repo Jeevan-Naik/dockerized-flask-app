@@ -1,3 +1,12 @@
+User
+  ↓
+Browser
+  ↓
+Flask Application
+  ↓
+Docker Container
+
+
 # Dockerize Demo
 
 A simple Flask application containerized using Docker.
